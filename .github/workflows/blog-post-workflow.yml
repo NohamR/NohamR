@@ -17,5 +17,3 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://noh.am/en/index.xml"
-          template: '- [$title]($url) - $date$newline'
-          date_format: "mmm d, yyyy"
