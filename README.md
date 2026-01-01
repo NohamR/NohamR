@@ -4,10 +4,4 @@
 </div>
 
 ## Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Retrieving content from the past: Exploiting MPEG-DASH time-based addressing](https://noh.am/en/posts/dash-bruteforce/)
-- [Analyzing the Xubuntu website compromise and clipboard hijacker malware](https://noh.am/en/posts/xubuntu-safe-download/)
-- [Capturing Kindle Web Reader pages](https://noh.am/en/posts/kindle-web-reader-pages/)
-- [Unpacking and repacking electron apps](https://noh.am/en/posts/unpacking-and-repacking-electron-apps/)
-- [Digging into reMarkable internal](https://noh.am/en/posts/digging-into-remarkable-internal/)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Retrieving content from the past: Exploiting MPEG-DASH time-based addressing](https://noh.am/en/posts/dash-bruteforce/) - Dec 21, 2025- [Analyzing the Xubuntu website compromise and clipboard hijacker malware](https://noh.am/en/posts/xubuntu-safe-download/) - Oct 20, 2025- [Capturing Kindle Web Reader pages](https://noh.am/en/posts/kindle-web-reader-pages/) - Oct 19, 2025- [Unpacking and repacking electron apps](https://noh.am/en/posts/unpacking-and-repacking-electron-apps/) - Aug 24, 2025- [Digging into reMarkable internal](https://noh.am/en/posts/digging-into-remarkable-internal/) - Aug 18, 2025<!-- BLOG-POST-LIST:END -->
