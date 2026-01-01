@@ -5,4 +5,5 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- Placeholder
 <!-- BLOG-POST-LIST:END -->
