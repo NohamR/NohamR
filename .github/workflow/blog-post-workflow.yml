@@ -1,0 +1,19 @@
+name: Latest blog post workflow
+on:
+  schedule: # Run workflow automatically
+    - cron: '0 1 * * *' # Runs daily at 01:00
+  workflow_dispatch: # Run workflow manually
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Pull in codu posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://noh.am/en/index.xml"
