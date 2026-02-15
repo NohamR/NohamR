@@ -5,9 +5,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [LLDB Cheatsheet](https://noh.am/en/posts/lldb-cheatsheet/)
 - [Adding ASM code blocks](https://noh.am/en/posts/asm/)
 - [Retrieving content from the past: Exploiting MPEG-DASH time-based addressing](https://noh.am/en/posts/dash-bruteforce/)
 - [Analyzing the Xubuntu website compromise and clipboard hijacker malware](https://noh.am/en/posts/xubuntu-safe-download/)
 - [Capturing Kindle Web Reader pages](https://noh.am/en/posts/kindle-web-reader-pages/)
-- [Unpacking and repacking electron apps](https://noh.am/en/posts/unpacking-and-repacking-electron-apps/)
 <!-- BLOG-POST-LIST:END -->
