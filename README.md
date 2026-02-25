@@ -5,9 +5,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [LLDB Cheatsheet](https://noh.am/en/posts/lldb-cheatsheet/)
+- [Bypassing Crédit Agricole&#39;s jailbreak detection](https://noh.am/en/posts/jailbreak-detection-3/)
+- [Bypassing Banque Postale&#39;s jailbreak detection - Part 2](https://noh.am/en/posts/jailbreak-detection-2/)
+- [Bypassing Banque Postale&#39;s jailbreak detection - Part 1](https://noh.am/en/posts/jailbreak-detection/)
 - [Adding ASM code blocks](https://noh.am/en/posts/asm/)
-- [Retrieving content from the past: Exploiting MPEG-DASH time-based addressing](https://noh.am/en/posts/dash-bruteforce/)
-- [Analyzing the Xubuntu website compromise and clipboard hijacker malware](https://noh.am/en/posts/xubuntu-safe-download/)
-- [Capturing Kindle Web Reader pages](https://noh.am/en/posts/kindle-web-reader-pages/)
+- [Frida Cheatsheet](https://noh.am/en/posts/frida-cheatsheet/)
 <!-- BLOG-POST-LIST:END -->
