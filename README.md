@@ -5,9 +5,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Unpacking and repacking Java apps](https://noh.am/en/posts/unpacking-and-repacking-java-apps/)
 - [Bypassing Crédit Agricole&#39;s jailbreak detection](https://noh.am/en/posts/jailbreak-detection-3/)
 - [Bypassing Banque Postale&#39;s jailbreak detection - Part 2](https://noh.am/en/posts/jailbreak-detection-2/)
 - [Bypassing Banque Postale&#39;s jailbreak detection - Part 1](https://noh.am/en/posts/jailbreak-detection/)
 - [Adding ASM code blocks](https://noh.am/en/posts/asm/)
-- [Frida Cheatsheet](https://noh.am/en/posts/frida-cheatsheet/)
 <!-- BLOG-POST-LIST:END -->
