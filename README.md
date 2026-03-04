@@ -5,9 +5,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Keygenning a barcode software license validation system](https://noh.am/en/posts/barcode/)
 - [Unpacking and repacking Java apps](https://noh.am/en/posts/unpacking-and-repacking-java-apps/)
 - [Bypassing Crédit Agricole&#39;s jailbreak detection](https://noh.am/en/posts/jailbreak-detection-3/)
 - [Bypassing Banque Postale&#39;s jailbreak detection - Part 2](https://noh.am/en/posts/jailbreak-detection-2/)
 - [Bypassing Banque Postale&#39;s jailbreak detection - Part 1](https://noh.am/en/posts/jailbreak-detection/)
-- [Adding ASM code blocks](https://noh.am/en/posts/asm/)
 <!-- BLOG-POST-LIST:END -->
