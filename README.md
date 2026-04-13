@@ -5,9 +5,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Blocking ads on the TF1+ Apple TV app](https://noh.am/en/posts/tf1-ads/)
+- [Downgrading and jailbreaking Apple TV HD to tvOS 18.3 via OTA injection](https://noh.am/en/posts/apple-tv-jailbreak/)
 - [Keygenning a barcode software license validation system](https://noh.am/en/posts/barcode/)
 - [Unpacking and repacking Java apps](https://noh.am/en/posts/unpacking-and-repacking-java-apps/)
 - [Bypassing Crédit Agricole&#39;s jailbreak detection](https://noh.am/en/posts/jailbreak-detection-3/)
-- [Bypassing Banque Postale&#39;s jailbreak detection - Part 2](https://noh.am/en/posts/jailbreak-detection-2/)
-- [Bypassing Banque Postale&#39;s jailbreak detection - Part 1](https://noh.am/en/posts/jailbreak-detection/)
 <!-- BLOG-POST-LIST:END -->
