@@ -5,9 +5,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Anatomy of an iOS crack](https://noh.am/en/posts/rev-dylib/)
 - [Blocking ads on the TF1+ iPhone app](https://noh.am/en/posts/tf1-ads-2/)
 - [Blocking ads on the TF1+ Apple TV app](https://noh.am/en/posts/tf1-ads/)
 - [Downgrading and jailbreaking Apple TV HD to tvOS 18.3 via OTA injection](https://noh.am/en/posts/apple-tv-jailbreak/)
 - [Keygenning a barcode software license validation system](https://noh.am/en/posts/barcode/)
-- [Unpacking and repacking Java apps](https://noh.am/en/posts/unpacking-and-repacking-java-apps/)
 <!-- BLOG-POST-LIST:END -->
